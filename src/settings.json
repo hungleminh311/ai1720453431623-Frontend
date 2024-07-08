@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Professional Car Rental Services Tailored to Your Journey",
+        "title": "Drive Your Dreams, Rent with Confidence"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams, Rent with Confidence",
+  "subtitle": "Professional Car Rental Services Tailored to Your Journey"
+}
